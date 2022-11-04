@@ -1,13 +1,13 @@
 # vite-plugin-escheck
 
 <p align="center">
-<a href="https://github.com/songjiachao/escheck-webpack-plugin"><img height="200" src="https://raw.githubusercontent.com/songjiachao/images/main/escheck-webpack-plugin/logo.png" alt="escheck-webpack-plugin"></a>
+<a href="https://github.com/songjiachao/vite-plugin-escheck"><img height="200" src="https://raw.githubusercontent.com/songjiachao/images/main/vite-plugin-escheck/logo.png" alt="vite-plugin-escheck"></a>
 </p>
 
 <p align="center">
-  <a href="https://www.npmjs.com/package/escheck-webpack-plugin" target="_blank" rel="noopener noreferrer"><img src="https://badgen.net/npm/v/escheck-webpack-plugin" alt="NPM Version" /></a>
-  <a href="https://www.npmjs.com/package/escheck-webpack-plugin" target="_blank" rel="noopener noreferrer"><img src="https://badgen.net/npm/dt/escheck-webpack-plugin" alt="NPM Downloads" /></a>
-  <a href="https://github.com/songjiachao/escheck-webpack-plugin/blob/main/LICENSE" target="_blank" rel="noopener noreferrer"><img src="https://badgen.net/github/license/songjiachao/escheck-webpack-plugin" alt="License" /></a>
+  <a href="https://www.npmjs.com/package/vite-plugin-escheck" target="_blank" rel="noopener noreferrer"><img src="https://badgen.net/npm/v/vite-plugin-escheck" alt="NPM Version" /></a>
+  <a href="https://www.npmjs.com/package/vite-plugin-escheck" target="_blank" rel="noopener noreferrer"><img src="https://badgen.net/npm/dt/vite-plugin-escheck" alt="NPM Downloads" /></a>
+  <a href="https://github.com/songjiachao/vite-plugin-escheck/blob/main/LICENSE" target="_blank" rel="noopener noreferrer"><img src="https://badgen.net/github/license/songjiachao/vite-plugin-escheck" alt="License" /></a>
 </p>
 
 ## 📖 Introduction
