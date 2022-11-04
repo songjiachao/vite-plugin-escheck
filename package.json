@@ -1,6 +1,6 @@
 {
   "name": "vite-plugin-escheck",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "Check all the vite generated files to find whether the code match the selected ES version. If doesn't match the plugin will thorw an error and stop vite emit files.",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
