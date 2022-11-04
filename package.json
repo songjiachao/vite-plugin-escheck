@@ -1,0 +1,45 @@
+{
+  "name": "vite-plugin-escheck",
+  "version": "0.0.5",
+  "description": "Check all the vite generated files to find whether the code match the selected ES version. If doesn't match the plugin will thorw an error and stop vite emit files.",
+  "main": "dist/index.js",
+  "module": "dist/index.mjs",
+  "types": "dist/index.d.ts",
+  "exports": {
+    ".": {
+      "require": "./dist/index.js",
+      "import": "./dist/index.mjs",
+      "types": "./dist/index.d.ts"
+    }
+  },
+  "scripts": {
+    "build": "tsup src/index.ts --dts --format cjs,esm"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/songjiachao/vite-plugin-escheck.git"
+  },
+  "keywords": [
+    "vite",
+    "escheck",
+    "plugin"
+  ],
+  "author": "songjiachao",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/songjiachao/vite-plugin-escheck/issues"
+  },
+  "homepage": "https://github.com/songjiachao/vite-plugin-escheck#readme",
+  "devDependencies": {
+    "@types/node": "^18.11.9",
+    "@typescript-eslint/eslint-plugin": "^5.42.0",
+    "@typescript-eslint/parser": "^5.42.0",
+    "eslint": "^8.26.0",
+    "tsup": "^6.4.0",
+    "typescript": "^4.8.4"
+  },
+  "dependencies": {
+    "acorn": "^8.8.1",
+    "vite": "^3.2.2"
+  }
+}
